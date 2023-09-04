@@ -2,6 +2,8 @@
 #include<conio.h>
 #include<stdlib.h> // For system("command").
 #include<math.h>   // To include pow function.
+// Author:- Tanish Rai
+// C program for a simple calculator app.
 
 void clrscr()      
 {
