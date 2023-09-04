@@ -3,6 +3,8 @@
 #include<ctype.h>
 #include<stdlib.h>
 #include<string.h>
+/* Author:- Tanish Rai
+   C program for simple Quiz app */
 
 
 void show_record();
