@@ -9,3 +9,6 @@ app.
 Create a simple app using C
 to convert temperature form Celsius to
 Fahrenheit and etc.
+3. Quiz App :
+A simple app for quiz you take questions
+on any topic using C.
