@@ -1,9 +1,7 @@
-/*
- * C program to perform temperature conversion using switch case
- */
- 
 #include<stdio.h>
 #include<conio.h>
+/* Author:- Tanish Rai
+   C program for a simple temperature conversion app. */
  
 int main()
 {
