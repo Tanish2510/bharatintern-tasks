@@ -118,14 +118,14 @@ int main()
 		       }
 
         case 2:
-		printf("\n\n\nThe country with the highest environmental performance index is...");
+		printf("\n\n\nThe country number one in the world happiness report...");
 		printf("\n\nA.France\t\tB.Denmark\n\nC.Switzerland\t\tD.Finland");
-		if (toupper(getch())=='C')
+		if (toupper(getch())=='D')
 			{printf("\n\nCorrect!!!");count++;
 			getch();
 			break;}
 		else
-		       {printf("\n\nWrong!!! The correct answer is C.Switzerland");
+		       {printf("\n\nWrong!!! The correct answer is D.Finland");
 		       getch();
 		       break;}
 
